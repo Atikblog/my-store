@@ -78,6 +78,7 @@ li a:hover:not(.active) {
     <p2>price=250</p2>
 <li><a href="facebook.com">Contact</a></center>
       </div>
+      <div>
       <div class="column">
         <img src="t shirt.jpg" alt="Forest" style="width:100%">
         <center>
@@ -85,6 +86,7 @@ li a:hover:not(.active) {
         
     <p2>price=250</p2>
 <li><a href="facebook.com">Contact</a></center>
+        <div>
      
       <div class="column">
         <img src="t shirt.jpg" alt="Mountains" style="width:100%"><center>
